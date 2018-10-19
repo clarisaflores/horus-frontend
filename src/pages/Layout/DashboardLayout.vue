@@ -5,36 +5,32 @@
     <side-bar>
       <mobile-menu slot="content"></mobile-menu>
       <sidebar-link to="/dashboard">
-        <md-icon>dashboard</md-icon>
-        <p>Registro</p>
+        <md-icon>local_play</md-icon>
+        <p>Eventos</p>
       </sidebar-link>
       <sidebar-link to="/user">
-        <md-icon>person</md-icon>
-        <p>Fotos</p>
+        <md-icon>location_city</md-icon>
+        <p>Escuelas</p>
       </sidebar-link>
-      <sidebar-link to="/table">
-        <md-icon>content_paste</md-icon>
-        <p>Reportes</p>
+      <sidebar-link to="/reports">
+        <md-icon>school</md-icon>
+        <p>Alumnos</p>
       </sidebar-link>
       <sidebar-link to="/typography">
-        <md-icon>library_books</md-icon>
-        <p>Usuarios</p>
-      </sidebar-link>
-      <sidebar-link to="/icons">
-        <md-icon>bubble_chart</md-icon>
+        <md-icon>monetization_on</md-icon>
         <p>Pagos</p>
       </sidebar-link>
+      <sidebar-link to="/icons">
+        <md-icon>photo_camera</md-icon>
+        <p>Fotos</p>
+      </sidebar-link>
       <sidebar-link to="/maps">
-        <md-icon>location_on</md-icon>
-        <p>Mesas</p>
+        <md-icon>assignment</md-icon>
+        <p>Reportes</p>
       </sidebar-link>
       <sidebar-link to="/notifications">
-        <md-icon>notifications</md-icon>
-        <p>Notifications</p>
-      </sidebar-link>
-      <sidebar-link to="/upgrade" class="active-pro">
-        <md-icon>unarchive</md-icon>
-        <p>Upgrade to PRO</p>
+        <md-icon>people</md-icon>
+        <p>Usuarios</p>
       </sidebar-link>
     </side-bar>
 

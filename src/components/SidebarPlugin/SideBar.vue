@@ -38,15 +38,15 @@ export default{
   props: {
     title: {
       type: String,
-      default: 'Vue MD'
+      default: 'H O R U S'
     },
     backgroundImage: {
       type: String,
-      default: require('@/assets/img/sidebar-2.jpg')
+      default: require('@/assets/img/sidebar-5.jpg')
     },
     imgLogo: {
       type: String,
-      default: require('@/assets/img/vue-logo.png')
+      default: require('@/assets/img/horus-logo.jpg')
     },
     activeColor: {
       type: String,

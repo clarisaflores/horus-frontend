@@ -26,8 +26,8 @@ const routes = [
         component: UserProfile
       },
       {
-        path: 'table',
-        name: 'Table List',
+        path: 'reports',
+        name: 'Reports',
         component: TableList
       },
       {
